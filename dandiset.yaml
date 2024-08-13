@@ -19,9 +19,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: voltage clamp technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 604734001
-  numberOfFiles: 11
-  numberOfSubjects: 22
+  numberOfBytes: 716425149
+  numberOfFiles: 14
+  numberOfSubjects: 28
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9544
@@ -32,14 +32,14 @@ assetsSummary:
   - CurrentClampStimulusSeries
   - VoltageClampStimulusSeries
   - VoltageClampSeries
-citation: Sawchuk, Scott ; Brian Kalmbach (2024) Areal specializations in the morpho-electric
+citation: Sawchuk, Scott; Kalmbach, Brian (2024) Areal specializations in the morpho-electric
   and transcriptomic properties of layer 5 extratelencephalic-projecting neurons in
   the primate neocortex (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001065/draft
 contributor:
 - affiliation: []
-  email: scott@nrsccollective.com
+  email: scott.sawchuk@alleninstitute.org
   includeInCitation: true
-  name: 'Sawchuk, Scott '
+  name: Sawchuk, Scott
   roleName:
   - dcite:ContactPerson
   - dcite:Author
@@ -53,7 +53,7 @@ contributor:
   schemaKey: Person
 - email: briank@alleninstitute.org
   includeInCitation: true
-  name: Brian Kalmbach
+  name: Kalmbach, Brian
   roleName:
   - dcite:Author
   - dcite:ContactPerson
