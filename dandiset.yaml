@@ -7,31 +7,9 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  approach:
-  - name: electrophysiological approach
-    schemaKey: ApproachType
-  dataStandard:
-  - identifier: RRID:SCR_015242
-    name: Neurodata Without Borders (NWB)
-    schemaKey: StandardsType
-  measurementTechnique:
-  - name: current clamp technique
-    schemaKey: MeasurementTechniqueType
-  - name: voltage clamp technique
-    schemaKey: MeasurementTechniqueType
-  numberOfBytes: 716425149
-  numberOfFiles: 14
-  numberOfSubjects: 28
+  numberOfBytes: 0
+  numberOfFiles: 0
   schemaKey: AssetsSummary
-  species:
-  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9544
-    name: Macaca mulatta - Rhesus monkey
-    schemaKey: SpeciesType
-  variableMeasured:
-  - CurrentClampSeries
-  - CurrentClampStimulusSeries
-  - VoltageClampStimulusSeries
-  - VoltageClampSeries
 citation: Sawchuk, Scott; Kalmbach, Brian (2024) Areal specializations in the morpho-electric
   and transcriptomic properties of layer 5 extratelencephalic-projecting neurons in
   the primate neocortex (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001065/draft
