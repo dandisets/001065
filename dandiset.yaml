@@ -19,9 +19,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: voltage clamp technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 10805026780
-  numberOfFiles: 289
-  numberOfSubjects: 112
+  numberOfBytes: 11539847907
+  numberOfFiles: 294
+  numberOfSubjects: 114
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9544
@@ -37,7 +37,7 @@ assetsSummary:
   - VoltageClampStimulusSeries
 citation: Sawchuk, Scott; Kalmbach, Brian (2024) Areal specializations in the morpho-electric
   and transcriptomic properties of layer 5 extratelencephalic-projecting neurons in
-  the primate neocortex (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001065/draft
+  the primate neocortex (Version 0.241028.1559) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.001065/0.241028.1559
 contributor:
 - affiliation: []
   email: scott.sawchuk@alleninstitute.org
@@ -79,14 +79,15 @@ description: 'Electrophysiology dataset associated with journal article titled a
   extratelencephalic-projecting neurons in the primate neocortex. NWB files contains
   current clamp data collected for analysis of deep layer 5 ET neurons in the primate
   temporal and motor cortical regions. '
+doi: 10.48324/dandi.001065/0.241028.1559
 ethicsApproval: []
-id: DANDI:001065/draft
+id: DANDI:001065/0.241028.1559
 identifier: DANDI:001065
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001065/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001065/0.241028.1559/assets.yaml
 name: Areal specializations in the morpho-electric and transcriptomic properties of
   layer 5 extratelencephalic-projecting neurons in the primate neocortex
 protocol: []
@@ -107,6 +108,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.7
 studyTarget: []
-url: https://dandiarchive.org/dandiset/001065/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001065/0.241028.1559
+version: 0.241028.1559
 wasGeneratedBy: []
