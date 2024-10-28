@@ -73,6 +73,7 @@ contributor:
   - dcite:Producer
   schemaKey: Person
 dateCreated: '2024-06-18T21:29:26.250578+00:00'
+datePublished: '2024-10-28T15:59:27.775924+00:00'
 description: 'Electrophysiology dataset associated with journal article titled areal
   specializations in the morpho-electric and transcriptomic properties of layer 5
   extratelencephalic-projecting neurons in the primate neocortex. NWB files contains
@@ -89,6 +90,18 @@ manifestLocation:
 name: Areal specializations in the morpho-electric and transcriptomic properties of
   layer 5 extratelencephalic-projecting neurons in the primate neocortex
 protocol: []
+publishedBy:
+  endDate: '2024-10-28T15:59:27.775924+00:00'
+  id: urn:uuid:8ada89c9-f092-4c5f-b413-12adfcd54ea2
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2024-10-28T15:59:27.775924+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:b40bcc9a-6f64-443d-b225-50ddfaa1d45c
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
